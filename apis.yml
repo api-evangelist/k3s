@@ -1,0 +1,15 @@
+name: K3s
+description: Lightweight Kubernetes distribution designed for resource-constrained
+  environments, edge computing, IoT devices, and CI/CD pipelines. K3s is a fully compliant
+  Kubernetes distribution with a reduced memory footprint and simplified installation.
+url: https://k3s.io/
+tags:
+- Kubernetes
+- Container Orchestration
+- Edge Computing
+- DevOps
+- Cloud Native
+created: '2025'
+modified: '2025'
+apis: []
+common: []
