@@ -16,7 +16,7 @@ K3s is a lightweight Kubernetes distribution designed for resource-constrained e
 ## Timestamps
 
 - **Created:** 2025-01-01 
-- **Modified:** 2026-03-16 
+- **Modified:** 2026-04-28 
 
 ## APIs
 
