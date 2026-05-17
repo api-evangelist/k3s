@@ -30,14 +30,14 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.k3s.io/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.k3s.io/quick-start
 common:
   - type: Website
     url: https://k3s.io/
   - type: Documentation
     url: https://docs.k3s.io/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/k3s-io/k3s
 maintainers:
   - FN: Kin Lane
