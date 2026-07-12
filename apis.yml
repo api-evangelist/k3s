@@ -33,6 +33,8 @@ apis:
       - type: GettingStarted
         url: https://docs.k3s.io/quick-start
 common:
+  - type: DomainSecurity
+    url: security/k3s-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/rancher
   - type: Website
