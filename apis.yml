@@ -48,7 +48,7 @@ tags_raw:
   - Kubernetes
 url: https://raw.githubusercontent.com/api-evangelist/k3s/refs/heads/main/apis.yml
 created: '2025-01-01'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: k3s:k3s
@@ -66,6 +66,10 @@ apis:
       - type: GettingStarted
         url: https://docs.k3s.io/quick-start
 common:
+  - url: https://docs.k3s.io/blog
+    type: Blog
+  - url: https://docs.k3s.io/blog/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/k3s-domain-security.yml
   - type: LinkedIn
